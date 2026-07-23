@@ -151,25 +151,25 @@ University of Wollongong in Dubai (UOWD)
 
 ### Featured Projects
 
-**[YouTube Intelligence Engine](https://github.com/AlimIzt/youtube-intelligence-engine)**
+### **[YouTube Intelligence Engine](https://github.com/AlimIzt/youtube-intelligence-engine)**
 Local NLP/RAG pipeline analyzing YouTube comment sentiment and entities using Ollama, HyDE retrieval, GLiNER NER, and DSPy-based QA, with a Streamlit dashboard. Runs fully offline on local GPU hardware.
 
-**Crypto Arbitrage Bot** *(Private Graduation Project)*
+### **Crypto Arbitrage Bot** *(Graduation Project)*
 Automated cryptocurrency arbitrage monitoring platform.
+[Video Demo](https://youtu.be/wKOj94MVT7Q)
 
-**Knowledge Graph Extraction Pipelines** (Repo TBA)
+### **Knowledge Graph Extraction Pipelines** (Repo TBA)
 Comparative NLP project evaluating REBEL vs. GLiNER+spaCy pipelines for relation extraction, including RDF graph construction and SPARQL querying.
 
-**CNN Image Classifier** (Repo TBA)
+### **CNN Image Classifier** (Repo TBA)
 Image classification model built in PyTorch, trained and evaluated from scratch.
 
 ### MRI VR Simulation *(Private)*
 Virtual reality MRI training application built in Unity for Meta Quest. Features an AI-powered virtual instructor using Convai, immersive interaction mechanics with XR Interaction Toolkit, guided MRI procedures, and realistic medical workflow simulation.
 
-### Undercooked VR *(University Project)*
+### **[Undercooked VR](https://drive.google.com/file/d/1et96wcvaCT41qknv-dI1AXqNq5ZzixK4/view?usp=sharing)** *(University Project)*
 VR cooking simulation built in Unity for Meta Quest featuring physically-based food preparation and real-time thermal cooking simulation. Food is cooked dynamically based on localized heat exposure, allowing individual surfaces and regions to brown independently rather than using a simple progress bar. Includes realistic object interactions, physics, and interactive kitchen gameplay.
 
-[Demo video: add link here]
 
 ---
 
