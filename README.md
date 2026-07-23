@@ -1,11 +1,15 @@
 <h1 align="center">Alim Izteleu</h1>
 <h3 align="center">Computer Science Student | NLP & Machine Learning | Game Development</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AlimIzt&color=blue&style=flat" alt="Profile views"/>
+</p>
+
 ---
 
 ### About
 
-Computer Science Masters student focused on applied NLP, machine learning, and game development. Experienced in building local-first ML pipelines, and implementing gameplay and networked systems in production game engines. Currently seeking opportunities in game developement, software engineering, ML engineering, or applied NLP.
+Computer Science Masters student focused on applied NLP, machine learning, and game development. Experienced in building local-first ML pipelines, and implementing gameplay and networked systems in production game engines. Currently seeking opportunities in game development, software engineering, ML engineering, or applied NLP.
 
 Currently building:
 - LLM applications
@@ -14,6 +18,16 @@ Currently building:
 - Open source projects
 - Unity projects
 - UE5 projects
+
+---
+
+### Education
+
+**Bachelor of Computer Science** — Mobile and Game Development
+University of Wollongong in Dubai (UOWD)
+
+**Master's in Digital Transformation** — in progress
+University of Wollongong in Dubai (UOWD)
 
 ---
 
@@ -64,6 +78,7 @@ Currently building:
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
 ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logo=openai&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat)
+![Convai](https://img.shields.io/badge/Convai-000000?style=flat)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=flat)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white)
@@ -148,6 +163,8 @@ Virtual reality MRI training application built in Unity for Meta Quest. Features
 
 ### Undercooked VR *(University Project)*
 VR cooking simulation built in Unity for Meta Quest featuring physically-based food preparation and real-time thermal cooking simulation. Food is cooked dynamically based on localized heat exposure, allowing individual surfaces and regions to brown independently rather than using a simple progress bar. Includes realistic object interactions, physics, and interactive kitchen gameplay.
+
+[Demo video: add link here]
 
 ---
 
