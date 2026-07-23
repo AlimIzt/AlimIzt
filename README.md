@@ -65,8 +65,8 @@ University of Wollongong in Dubai (UOWD)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -124,6 +124,9 @@ University of Wollongong in Dubai (UOWD)
 ![OpenXR](https://img.shields.io/badge/OpenXR%20%2F%20VR-0E1128?style=flat)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
 ![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat&logo=webgl&logoColor=white)
+![Convai](https://img.shields.io/badge/Convai-000000?style=flat)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white)
+![Roblox](https://img.shields.io/badge/Roblox-000000?style=flat&logo=roblox&logoColor=white)
 
 **Computer Science Foundations**
 
@@ -141,38 +144,40 @@ University of Wollongong in Dubai (UOWD)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 
 ---
 
 ### Featured Projects
 
-### **[YouTube Intelligence Engine](https://github.com/AlimIzt/youtube-intelligence-engine)**
+**[YouTube Intelligence Engine](https://github.com/AlimIzt/youtube-intelligence-engine)**
 Local NLP/RAG pipeline analyzing YouTube comment sentiment and entities using Ollama, HyDE retrieval, GLiNER NER, and DSPy-based QA, with a Streamlit dashboard. Runs fully offline on local GPU hardware.
 
-### **Crypto Arbitrage Bot** *(Graduation Project)*
+**Crypto Arbitrage Bot** *(Private Graduation Project)*
 Automated cryptocurrency arbitrage monitoring platform.
-[Video Demo](https://youtu.be/wKOj94MVT7Q)
 
-### **Knowledge Graph Extraction Pipelines** (Repo TBA)
+**Knowledge Graph Extraction Pipelines** (Repo TBA)
 Comparative NLP project evaluating REBEL vs. GLiNER+spaCy pipelines for relation extraction, including RDF graph construction and SPARQL querying.
 
-### **CNN Image Classifier** (Repo TBA)
+**CNN Image Classifier** (Repo TBA)
 Image classification model built in PyTorch, trained and evaluated from scratch.
 
 ### MRI VR Simulation *(Private)*
 Virtual reality MRI training application built in Unity for Meta Quest. Features an AI-powered virtual instructor using Convai, immersive interaction mechanics with XR Interaction Toolkit, guided MRI procedures, and realistic medical workflow simulation.
 
-### **[Undercooked VR](https://drive.google.com/file/d/1et96wcvaCT41qknv-dI1AXqNq5ZzixK4/view?usp=sharing)** *(University Project)*
+### Undercooked VR *(University Project)*
 VR cooking simulation built in Unity for Meta Quest featuring physically-based food preparation and real-time thermal cooking simulation. Food is cooked dynamically based on localized heat exposure, allowing individual surfaces and regions to brown independently rather than using a simple progress bar. Includes realistic object interactions, physics, and interactive kitchen gameplay.
 
+[Demo video: add link here]
 
 ---
 
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlimIzt&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlimIzt&layout=compact&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-eight-alpha.vercel.app/api?username=AlimIzt&show_icons=true&theme=default&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-eight-alpha.vercel.app/api/top-langs/?username=AlimIzt&layout=compact&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
